@@ -104,7 +104,7 @@ ROS          | 2 년        | 자율주행 플랫폼 ERP-42 통신
 > - Libraries : Pytorch, Numpy
 >> [Lab](https://cilab.dongguk.edu/)<br>
 >> [Explanation of Existing Research](https://velog.io/@landsky1234/Cross-Modal-Transformers-for-Infrared-and-Visible-Image-fusion)<br>
->> [Proposed Research](https://www.notion.so/IVIF-Infrared-Visible-Image-Fusion-Modeling-19ff043fb96980c8988aefe883967455?pvs=4)
+>> [Proposed Research](https://www.notion.so/IVIF-Infrared-Visible-Image-Fusion-Modeling-19ff043fb96980c8988aefe883967455?pvs=4)<br>
 >> [Project](https://github.com/minmaxHong/Research)
 
 <br />
